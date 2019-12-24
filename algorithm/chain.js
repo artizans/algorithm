@@ -1,0 +1,1 @@
+// single chain,bidirectional chain,circulation chain
